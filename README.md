@@ -1,5 +1,4 @@
-# FOOD-CONNECT-To-Supply-Leftover-Food-to-Poor
-# FOOD CONNECT: Supply Leftover Food to the Needy  
+# FOOD-CONNECT-To-Supply-Leftover-Food-to-Poor  
 
 Welcome to FOOD CONNECT, an initiative to bridge the gap between surplus food and those in need. This project leverages Salesforce to create a streamlined platform for connecting donors, volunteers, and drop-off points to ensure leftover food reaches the poor effectively and efficiently.  
 
