@@ -74,11 +74,15 @@ Food waste is a global issue, yet millions go hungry every day. FOOD CONNECT aim
 1. Clone the repository:  
    ```bash
    git clone https://github.com/shraddhatiwari25/FOOD-CONNECT-To-Supply-Leftover-Food-to-Poor.git
-   
-❤️ Contributing
-We welcome contributions to enhance the functionality of FOOD CONNECT! To contribute:
 
-Fork the repository.
+   
+---   
+
+
+## ❤️ Contributing
+We welcome contributions to enhance the functionality of FOOD CONNECT! 
+
+**To contribute:** Fork the repository.
 Create a new branch for your feature:
 bash
 git checkout -b feature-name  
@@ -86,7 +90,9 @@ git checkout -b feature-name
 Commit your changes and push to your branch.
 Open a pull request for review.
 
-📬 Contact
+---
+
+## 📬 Contact
 For queries or suggestions, feel free to reach out to Shraddha Tiwari.
 
 ![Screenshot 2025-01-05 231046](https://github.com/user-attachments/assets/0a741a1d-30bd-41cf-b3bf-e26d0530f060)
